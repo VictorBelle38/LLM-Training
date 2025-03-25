@@ -1,0 +1,15 @@
+# Arquivos de ambiente
+.env
+.env/
+
+# Jupyter / Python
+__pycache__/
+*.pyc
+
+# Dados
+data/*.xlsx
+data/*.csv
+
+# IDEs
+.vscode/
+.idea/
